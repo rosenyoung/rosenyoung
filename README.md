@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Master of Commerce and future PhD in Finance Student at Monash University. My research interests include topics about mutual funds, asset pricing, and corporate governance. I am now working on a topic about how target date funds influence CEO incentives.
+I am a PhD in Finance Student at Monash University. My research interests include topics about mutual funds, asset pricing, and corporate governance. I am now working on a topic about how target date funds influence CEO incentives.
 
 I would like to share my codes once I finish each of my research projects.
 
