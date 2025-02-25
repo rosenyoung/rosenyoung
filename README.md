@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am a PhD in Finance Student at Monash University. My research interests include topics about mutual funds, asset pricing, and corporate governance. I am now working on a topic about how target date funds influence CEO incentives.
+I am a PhD in Finance Student at Monash University. My research interests include topics about mutual funds, asset pricing, and corporate governance. I am now working on a topic about how target date funds influence asset prices.
 
 I would like to share my codes once I finish each of my research projects.
 
 I was quite interested in trading but now I focus more on academic research. 
 
-You can reach me at ryan0055@student.monash.edu
+You can reach me at ruosen.yang@monash.edu
 
 <!--
 **rosenyoung/rosenyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
