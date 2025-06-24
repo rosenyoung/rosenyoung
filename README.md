@@ -7,6 +7,7 @@ I would like to share my codes once I finish each of my research projects.
 I was quite interested in trading but now I focus more on academic research. 
 
 You can reach me at ruosen.yang@monash.edu
+Personal website: https://sites.google.com/view/ruosen-yang/
 
 <!--
 **rosenyoung/rosenyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
